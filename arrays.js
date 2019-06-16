@@ -42,7 +42,7 @@ function removeElementFromEndOfArray(array){
   return newArray
 }
 
-var chocolateBars[
+var chocolateBars = [
   'snickers',
   'hundred grand',
   'kitkat',
