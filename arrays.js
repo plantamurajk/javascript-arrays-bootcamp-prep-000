@@ -41,3 +41,10 @@ function removeElementFromEndOfArray(array){
   var newArray = array.slice(0, (array.length - 1))
   return newArray
 }
+
+var chocolateBars[
+  'snickers',
+  'hundred grand',
+  'kitkat',
+  'skittles'
+  ]
